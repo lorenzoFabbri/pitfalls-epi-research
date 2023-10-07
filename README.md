@@ -14,6 +14,7 @@ Some pitfalls:
 - Standardization of biomarkers of exposure by creatinine levels.
 - Use of p-values to select confounders.
 - Interpretation of coefficients in a misspecified model.
+- Interpretation of coefficients other than the exposure in a model (Table 2 fallacy).
 
 ## Methodological and Statistical Issues
 
