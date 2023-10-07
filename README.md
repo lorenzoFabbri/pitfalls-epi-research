@@ -13,6 +13,7 @@ Some pitfalls:
 - Use of ratios as dependent or independent variables in a regression model.
 - Standardization of biomarkers of exposure by creatinine levels.
 - Use of p-values to select confounders.
+- Interpretation of coefficients in a misspecified model.
 
 ## Methodological and Statistical Issues
 
